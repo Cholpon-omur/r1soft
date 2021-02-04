@@ -1,2 +1,2 @@
 # r1soft
-R1soft  Sever and Agent Installation on CentOS 
+R1soft  Server and Agent Installation on CentOS 
